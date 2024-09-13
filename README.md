@@ -10,11 +10,11 @@ We strongly recommend reading both linked papers because this is just boiling do
 
 **All content on this repo, including the uploaded models, should be considered non-final and in progress**
 
-[Bill of Materials](https://github.com/HTangl/pirate-extensions-extended/blob/main/Bill%20of%20Materials.md)
+[Bill of Materials](Bill_of_Materials.md)
 
-You can find both the original pirate-extensions files as well as the new files fora 3mm electret under [pirate-models](https://github.com/HTangl/pirate-extensions-extended/tree/main/pirate-models)
+You can find both the original pirate-extensions files as well as the new files fora 3mm electret under [pirate-models](pirate-models)
 
-![3mm electret](https://github.com/HTangl/pirate-extensions-extended/blob/main/pirate-models/pirate-extensions-extended.JPG)
+![3mm electret](pirate-models/pirate-extensions-extended.JPG)
 
 A detailed step by step guide on how to build the pirate-extension can be found [here](step-by-step-guide/STEP_BY_STEP.md)
 
