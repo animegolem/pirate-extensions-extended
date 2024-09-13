@@ -1,19 +1,26 @@
-# pirate-extensions
-Adaptions to the PIRATE In-Ear Microphones
+ # pirate-extensions-extended
+Adapting AudioGroupCologne's Adaptions to the PIRATE In-Ear Microphones for general headphone hobbyist use. Currently a second mold has been created to fit a 3mm Electret Capsule. 
 
 ## Description
-This repository contains supplementary materials for adapted in-ear microphones [1], based on the PIRATE microphones design by Denk et al. [2].
+This repository contains additional supplementary materials for adapted in-ear microphones [1], based on the PIRATE microphones design by Denk et al. [2]
+
+We strongly recommend reading both linked papers because this is just boiling down and stealing that work. o7 
 
 ## Contents
 
-You can find all the 3d files in the stl-fileformat ready to 3D print as well as a single blender scene containing all the objects in the pirate-models folder and its subfolders 
+**All content on this repo, including the uploaded models, should be considered non-final and in progress**
 
-![3D models preview](pirate-models/3d-models.png)
+[Bill of Materials](https://github.com/HTangl/pirate-extensions-extended/blob/main/Bill%20of%20Materials.md)
 
-A detailled step by step guide on how to build the pirate-extension can be found [here](step-by-step-guide/STEP_BY_STEP.md)
+You can find both the original pirate-extensions files as well as the new files fora 3mm electret under [pirate-models](https://github.com/HTangl/pirate-extensions-extended/tree/main/pirate-models)
+
+![3mm electret](https://github.com/HTangl/pirate-extensions-extended/blob/main/pirate-models/pirate-extensions-extended.JPG)
+
+A detailed step by step guide on how to build the pirate-extension can be found [here](step-by-step-guide/STEP_BY_STEP.md)
 
 ## REFERENCES
 
 [1] D. Bau, O. Moschner, C. Poerschmann "Adapting the PIRATE Design for Cost-Effective In-Ear Microphones", Proceedings of the 50th DAGA, Hannover, Mar. 2024
 
 [2] F. Denk, F. Brinkmann, A. Stirnemann, and B. Kollmeier, “The PIRATE: an anthropometric earPlug with exchangeable microphones for Individual Reliable Acquisition of Transfer functions at the Ear canal entrance”, Proceedings of the 45th DAGA, Rostock, Mar. 2019
+
