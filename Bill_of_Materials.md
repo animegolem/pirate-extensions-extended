@@ -6,9 +6,7 @@
 
 2. A two part, kneadable silicone. This should be between shore 40-65a so it is soft enough to form a perfect seal but firm enough that it will not deform and vary placement. The original paper suggests 55A is ideal if possible. 
 
-* [I've successfully used the following (40a) but harder would be more ideal.](https://www.amazon.com/dp/B09TGKS4KY)
-
-* [Needs to be tested but likely better. (50a)](https://micromark.com/products/micro-mark-rtv-silicone-mold-putty-50-hard)
+* see 
 
 3. Monofilament fishing line, .4mm or greater.
 
