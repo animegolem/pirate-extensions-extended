@@ -28,7 +28,9 @@
 
 3. Male 3.5mm connector
 
-4. Glue (Paper advises 2 part epoxy but i hate it so want to try stuff.) 
+4. Glue (Paper advises 2 part epoxy but i hate it so want to try stuff.)
+  
+* Currently having better luck with simple gel superglue. 
 
 5. Apple dongle or equivalent
    
