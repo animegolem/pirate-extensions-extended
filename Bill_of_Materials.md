@@ -24,7 +24,7 @@
 
 2. 3mm Electret or MEMS microphone with a relatively flat and extended response. 
 
-* see [capsule_testing.md](capsule_testing.md).
+* see [capsule_testing](capsule_testing.md).
 
 3. Male 3.5mm connector
 
