@@ -6,7 +6,7 @@
 
 2. A two part, kneadable silicone. This should be between shore 40-65a so it is soft enough to form a perfect seal but firm enough that it will not deform and vary placement. The original paper suggests 55A is ideal if possible. 
 
-* see 
+* see [capsule_testing.md](capsule_testing.md).
 
 3. Monofilament fishing line, .4mm or greater.
 
