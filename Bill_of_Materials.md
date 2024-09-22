@@ -20,9 +20,9 @@
  
 ### Microphone
 
-1. 3-10ft Well shielded Microphone cable (I used Canare L-4E5C)
+1. 3-10ft Well shielded Microphone cable (I've used Canare L-4E5C and Canare L-2T2S with no meaningful difference)
 
-2. 3mm Electret or MEMS microphone with a relatively flat and extended response. 
+3. 3mm Electret or MEMS microphone with a relatively flat and extended response. 
 
 * see [capsule_testing](capsule_testing.md).
 
