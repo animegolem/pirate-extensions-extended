@@ -20,9 +20,11 @@
  
 ### Microphone
 
-1. 3-10ft Well shielded Microphone cable (I've used Canare L-4E5C and Canare L-2T2S with no meaningful difference)
+1. 3-10ft Well shielded Microphone cable (I've used Canare L-2T2S)
 
-3. 3mm or 4mm Electret or MEMS microphone with a relatively flat and extended response. 
+2. Shrink Wrap or Electrical Tape 
+
+3. 3mm or 4mm Electret or 3mm MEMS microphone with a relatively flat and extended response. 
 
 * see [capsule_testing](capsule_testing.md).
 
@@ -30,5 +32,5 @@
 
 4. 2 Part Epoxy or Thick Gel Super Glue
     
-5. Apple dongle or equivalent
+5. Apple dongle or equivalent 
    
