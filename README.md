@@ -18,7 +18,7 @@ You can find both the original pirate-extensions files as well as the new files 
 
 A detailed step by step guide on how to build the pirate-extension can be found [here](step-by-step-guide/STEP_BY_STEP.md)
 
-For a very very rough guide on how to use the microphones and create a personal target please see the [usage guide](usage_guide/usage_guide.md). Please expect the results to be confusing and problematic if you start this project. 
+For a rough guide on how to use the microphones and create a personal target please see the [usage guide](usage_guide/usage_guide.md). Please expect the results to be confusing and problematic if you start this project. 
 
 [I've also setup a squiglink as an example of how this data may look once collected.](https://squig.animatedmusic.net/?share=Golem_HRTF_Target%2CMDR-MV1&bass=2&tilt=-0.8&treble=-3&ear=0) This data should not be compared to any other rig and extreme caution should be used when drawing any conclusions. 
 
