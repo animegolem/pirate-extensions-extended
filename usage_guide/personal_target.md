@@ -10,4 +10,4 @@ Very roughly,
 7. Using the measurement window in REW find the best point of agreement around 2khz against one of the targets provided on my [graphtool](). Remember to remove any adjustments.
 8. Smooth as required and merge the results. 
 
-I recommend standing up your own instance of Haruto's [PublicGraphTool](https://github.com/HarutoHiroki/PublicGraphTool) since the tilts and Harman filters are *incredibly* useful in finding your preference. It's a pain in ass but you're already this far.  
+I recommend standing up your own instance of Haruto's [PublicGraphTool](https://github.com/HarutoHiroki/PublicGraphTool) since the tilts and Harman filters are *incredibly* useful in finding your preference. It's a pain in ass but you're already this far.  ¯\_(ツ)_/¯ 
