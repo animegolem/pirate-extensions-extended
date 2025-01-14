@@ -2,7 +2,7 @@
 
 ### Ear Plugs 
 
-1. A reasonably competent 3D printer is required in order to create the mold. See [print-settings](https://github.com/HTangl/pirate-extensions-extended/blob/main/print-settings.md). 
+1. A reasonably competent 3D printer is required in order to create the mold.
 
 2. A two part, kneadable silicone. This should be between shore 40-65a so it is soft enough to form a perfect seal but firm enough that it will not deform and vary placement. The original paper suggests 55A is ideal if possible.
 
@@ -22,15 +22,13 @@
 
 1. 3-10ft Well shielded Microphone cable (I've used Canare L-4E5C and Canare L-2T2S with no meaningful difference)
 
-3. 3mm Electret or MEMS microphone with a relatively flat and extended response. 
+3. 3mm or 4mm Electret or MEMS microphone with a relatively flat and extended response. 
 
 * see [capsule_testing](capsule_testing.md).
 
 3. Male 3.5mm connector
 
-4. Glue (Paper advises 2 part epoxy but i hate it so want to try stuff.)
-  
-* Currently having better luck with simple gel superglue. 
-
+4. 2 Part Epoxy or Super Glue
+    
 5. Apple dongle or equivalent
    
