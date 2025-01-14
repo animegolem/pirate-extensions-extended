@@ -1,1 +1,7 @@
+Very broadly in REW; 
 
+1. Measure single speaker with a long moving mic measurement using the measurement mic.
+2. Repeat using the capsule. Match position as closely as possible. 
+3. Select each measurement alone and take an RMS avg. the resulting measurement will get the prefix magn to show it's magnitude only. 
+4. select arithmetic and divide Uncalibrated Mic/Calibrated Mic. consider adjusting the boundaries based on speaker roll off. 
+5. Save with a 20,20k cut off and 1/6th or so smoothing. 
