@@ -1,7 +1,9 @@
 Very broadly in REW; 
 
-1. Measure single speaker with a long moving mic measurement using the measurement mic.
-2. Repeat using the capsule. Match position as closely as possible. 
-3. Select each measurement alone and take an RMS avg. the resulting measurement will get the prefix magn to show it's magnitude only. 
-4. select arithmetic and divide Uncalibrated Mic/Calibrated Mic. consider adjusting the boundaries based on speaker roll off. 
-5. Save with a 20,20k cut off and 1/6th or so smoothing. 
+1. Measure a single speaker with a long moving mic measurement using a measurement mic.
+2. Repeat using the capsule. Match position as closely as possible. It may be helpful to hang a marker, you want to limit it to barely larger than the size of your head. 
+3. Select each measurement alone and take an RMS avg. The resulting measurement will get the prefix "Magn" to show it's magnitude only. 
+4. Select arithmetic and divide A/B with the Uncalibrated Mic over the Calibrated Mic. Consider adjusting the boundaries in the trace arithmetic window based on speaker roll off, e.g. the speaker rolls off at 60hz and you cut off everything below this. 
+5. Save with a 20,20k cut off and 1/3rd-1/6th.
+
+This calibration file can now be applied in REW under Preferences ---> Cal Files.  
