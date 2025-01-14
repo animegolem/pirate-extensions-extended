@@ -1,5 +1,8 @@
-# tom-1537l-hd-lw100-b-r
+# TOM-1537L-HD-LW100-B-R
 
+Current Recomendation 
+
+![sample 1](https://github.com/animegolem/pirate-extensions-extended/blob/main/step-by-step-guide/Images/Capsule%20Testing/TOM-1537L-HD-LW100-B-R_Sample_1.png?raw=true)
 
 # HBO0302C-58/1248
 
