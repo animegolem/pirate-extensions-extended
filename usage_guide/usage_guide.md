@@ -14,4 +14,4 @@ The basic steps required are as follows;
 
 4. Measure headphones with compensation file in place. Your results will only be comparable to other measurements taken in your ear, with the same cal file, with the same microphone. 
 
-If you do not wish to stand up your own graphtool the best option will be be using [Listener's Playground](https://listener800.github.io/eqplayground) or my [graphtool](https://squig.animatedmusic.net/)
+If you do not wish to stand up your own graphtool the best option will be be using [Listener's Playground](https://listener800.github.io/eqplayground) or my [graphtool](https://animegolem.github.io/)
