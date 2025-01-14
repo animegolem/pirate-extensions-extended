@@ -18,6 +18,8 @@ You can find both the original pirate-extensions files as well as the new files 
 
 A detailed step by step guide on how to build the pirate-extension can be found [here](step-by-step-guide/STEP_BY_STEP.md)
 
+A very rough guide on how to use the microphones and create a personal target can be found [here](link/link.md). Please expect the results to be confusind and problematic if you start this project. 
+
 ## REFERENCES
 
 [1] D. Bau, O. Moschner, C. Poerschmann "Adapting the PIRATE Design for Cost-Effective In-Ear Microphones", Proceedings of the 50th DAGA, Hannover, Mar. 2024
