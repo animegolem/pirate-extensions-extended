@@ -9,8 +9,8 @@ The basic steps required are as follows;
 2. [Create your personal DF HRTF target.](usage_guide) This is the preferred but significantly more complicated option. It will also requires a speaker with sufficient directivity to be EQ'd flat in the listening position.
    
       or
-   
-3. EQ using the "ISO 11904" or "ARI, HUTUBS, RIEC, SONICOM AV" targets. This should be more than sufficient to improve in-situ bass response and midrange up to 1-2k. The treble may vary more widely but in practice this will be similar to EQing using rig results. Since you are capturing the correct HPTF effects you will likely find your results more repeatable, however. 
+
+3. EQ using the "ISO 11904" or "ARI, HUTUBS, RIEC, SONICOM AV" targets. This should be more than sufficient to improve in-situ bass response and midrange up to 1-2k. The treble may vary more widely but in practice this will be similar to EQing using rig results. Since you are capturing the correct HPTF effects you will likely find your results more repeatable from headphone to headphone, however. 
 
 4. Measure headphones with compensation file in place. Your results will only be comparable to other measurements taken in your ear, with the same cal file, with the same microphone. 
 
