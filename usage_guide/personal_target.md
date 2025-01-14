@@ -7,7 +7,7 @@ Very roughly,
 4. Enable the generator in REW and calibrate the capsule mic while in ear using an external SPL meter.
 5. In a rotating chair take a moving mic measurement. Aim to move slowly and evenly while looking fully up and down from all positions while repeatedly rotating 360. Repeat this until the measurement has become stable, likely in the range of 600-1000 avgs.
 6. Repeat for the second ear. Your ears are not identical and while they should broadly track you should not expect them to be identical. Take an average of both results. 
-7. Using the measurement window in REW find the best point of agreement around 2khz against one of the targets provided on my [graphtool](). Remember to remove any adjustments.
+7. Using the measurement window in REW find the best point of agreement around 2khz against one of the targets provided on my [graphtool](https://animegolem.github.io/). Remember to remove any adjustments.
 8. Smooth as required and merge the results. 
 
 I recommend standing up your own instance of Haruto's [PublicGraphTool](https://github.com/HarutoHiroki/PublicGraphTool) since the tilts and Harman filters are *incredibly* useful in finding your preference. It's a pain in ass but if you're already this.  ¯\_(ツ)_/¯ 
