@@ -16,6 +16,6 @@ Sample 1 was problematic and showed massively increased LF roll off when in an e
 
 # CMC-3015-44L100
 
-Very problematic mains hum. Might improve with a pre-amp. 
+Very problematic mains hum. Generally poor linearity. 
 
 ![Sample 1](https://github.com/animegolem/pirate-extensions-extended/blob/main/step-by-step-guide/Images/Capsule%20Testing/CMC-3015-44L100%20Sample%201.png)
