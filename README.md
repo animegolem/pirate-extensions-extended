@@ -4,7 +4,7 @@ Adapting AudioGroupCologne's Adaptions to the PIRATE In-Ear Microphones for gene
 ## Description
 This repository contains additional supplementary materials for adapted in-ear microphones [1], based on the PIRATE microphones design by Denk et al. [2]
 
-We strongly recommend reading both linked papers because this is just boiling down and stealing that work. o7 
+I strongly recommend reading both linked papers because this is just boiling down and stealing that work. o7 
 
 ## Contents
 
