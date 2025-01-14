@@ -4,9 +4,9 @@ Some familiarity with basic audio science concepts is likely required to use the
 
 The basic steps required are as follows; 
 
-1. [Create a compensation file for the electret capsule.](usage_guide/microphone_compensation) 
+1. [Create a compensation file for the electret capsule.](microphone_compensation) 
 
-2. [Create your personal DF HRTF target.](usage_guide) This is the preferred but significantly more complicated option. It will also requires a speaker with sufficient directivity to be EQ'd flat in the listening position.
+2. [Create your personal DF HRTF target.](personal_target) This is the preferred but significantly more complicated option. It will also requires a speaker with sufficient directivity to be EQ'd flat in the listening position.
    
       or
 
