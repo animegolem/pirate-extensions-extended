@@ -12,7 +12,7 @@ We strongly recommend reading both linked papers because this is just boiling do
 
 [Bill of Materials](Bill_of_Materials.md)
 
-You can find both the original pirate-extensions files as well as the new files fora 3mm electret under [pirate-models](pirate-models)
+You can find both the original pirate-extensions files as well as the new files for a 3mm or 4mm electret under [pirate-models](pirate-models). Note that only the top mold has been updated and the original center and base mold are still required. 
 
 ![3mm electret](pirate-models/pirate-extensions-extended.JPG)
 
