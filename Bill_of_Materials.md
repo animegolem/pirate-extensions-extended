@@ -28,7 +28,7 @@
 
 3. Male 3.5mm connector
 
-4. 2 Part Epoxy or Super Glue
+4. 2 Part Epoxy or Thick Gel Super Glue
     
 5. Apple dongle or equivalent
    
