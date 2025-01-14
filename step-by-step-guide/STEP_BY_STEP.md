@@ -9,7 +9,9 @@
 I do not advise using the ear hooks as the original shape of the plugs is designed around the strain relief being oriented down from the ear. 
 
 # Microphone
-The Microphone must be glued to a standoff in order to be held in the earplug. This should be done using a 2 part epoxy or super glue. The provided guide tool is designed used with a 3mm electret but can be used with a 4mm if you increase the print scale to around 100.4.   
+The Microphone must be glued to a standoff in order to be held in the earplug. This should be done using a 2 part epoxy or super glue. The provided guide tool is designed used with a 3mm electret but can be used with a 4mm if you increase the print scale to around 100.4. 
+
+![Guide Tool](https://github.com/animegolem/pirate-extensions-extended/blob/main/step-by-step-guide/Images/Guide%20Tool/GuideToolCombined.png)
 
 The actual microphone is very simple to construct. From the capsule bridge hot to both internal wires. On the TRS solder to either tip or bridge ring and tip if you'd like an output on both channels. It shouldn't really make a differnce either way. Use the sheathing as ground. Use shrink wrap over solder joints.  
 
