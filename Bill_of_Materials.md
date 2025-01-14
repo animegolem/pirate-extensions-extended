@@ -16,7 +16,7 @@
 
 5. A needle or similar to make holes in the finished plug
 
-6. Straight Razor to clean up demolded plug. 
+6. Straight razor to clean up demolded plug. 
  
 ### Microphone
 
