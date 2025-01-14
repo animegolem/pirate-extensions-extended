@@ -1,5 +1,5 @@
  # pirate-extensions-extended
-Adapting AudioGroupCologne's Adaptions to the PIRATE In-Ear Microphones for general headphone hobbyist use. Currently a second mold has been created to fit a 3mm Electret Capsule. 
+Adapting AudioGroupCologne's Adaptions to the PIRATE In-Ear Microphones for general headphone hobbyist use. Currently a second mold has been created to fit a 3mm or 4mm Electret Capsule. 
 
 ## Description
 This repository contains additional supplementary materials for adapted in-ear microphones [1], based on the PIRATE microphones design by Denk et al. [2]
