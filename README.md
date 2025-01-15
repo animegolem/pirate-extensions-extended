@@ -1,5 +1,5 @@
  # pirate-extensions-extended
-Adapting AudioGroupCologne's Adaptions to the PIRATE In-Ear Microphones for general headphone hobbyist use. Currently a second mold has been created to fit a 3mm or 4mm Electret Capsule. 
+Adapting AudioGroupCologne's Adaptions to the PIRATE In-Ear Microphones for electret micorphones and general headphone hobbyist use.
 
 ## Description
 This repository contains additional supplementary materials for adapted in-ear microphones [1], based on the PIRATE microphones design by Denk et al. [2]
@@ -16,7 +16,7 @@ I strongly recommend reading both linked papers because this is just boiling dow
 
 [Pirate Models](pirate-models)
 
-The updated molds and guide tool support 3mm and 4mm (pending, for now see build instructions) electrect capsules. Additionally, the oringal pirate extensions support a 3mm MEMS microphone. Note that only the top mold has been updated and the original center and base mold are still required. 
+The updated molds and guide tool support 3mm and 4mm (pending, for now see build instructions) electret capsules. Additionally, the original pirate extensions support a 3mm MEMS microphone. Note that only the top mold has been updated and the original center and base mold are still required. 
 
 ![4mm electret](Images/pirate-extensions-extended.JPG)
 
