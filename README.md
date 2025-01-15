@@ -12,7 +12,7 @@ I strongly recommend reading both linked papers because this is just boiling dow
 
 [Bill of Materials](Bill_of_Materials.md)
 
-A detailed guide on how to build the pirate-extension can be found [here](build_guide.md)
+[Build Instructions](build_guide.md)
 
 You can find both the original pirate-extensions files as well as the new files for a 3mm or 4mm electret under [pirate-models](pirate-models). Note that only the top mold has been updated and the original center and base mold are still required. 
 
