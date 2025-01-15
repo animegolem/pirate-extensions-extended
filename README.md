@@ -12,11 +12,11 @@ I strongly recommend reading both linked papers because this is just boiling dow
 
 [Bill of Materials](Bill_of_Materials.md)
 
+A detailed guide on how to build the pirate-extension can be found [here](build_guide.md)
+
 You can find both the original pirate-extensions files as well as the new files for a 3mm or 4mm electret under [pirate-models](pirate-models). Note that only the top mold has been updated and the original center and base mold are still required. 
 
 ![4mm electret](Images/pirate-extensions-extended.JPG)
-
-A detailed guide on how to build the pirate-extension can be found [here](build_guide.md)
 
 For a rough guide on how to use the microphones and create a personal target please see the [usage guide](usage_guide/usage_guide.md). Please expect the results to be confusing and problematic if you start this project. 
 
