@@ -16,7 +16,7 @@ You can find both the original pirate-extensions files as well as the new files 
 
 ![4mm electret](Images/pirate-extensions-extended.JPG)
 
-A detailed step by step guide on how to build the pirate-extension can be found [here](step-by-step-guide/STEP_BY_STEP.md)
+A detailed guide on how to build the pirate-extension can be found [here](build_guide.md)
 
 For a rough guide on how to use the microphones and create a personal target please see the [usage guide](usage_guide/usage_guide.md). Please expect the results to be confusing and problematic if you start this project. 
 
