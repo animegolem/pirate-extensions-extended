@@ -14,7 +14,7 @@ I strongly recommend reading both linked papers because this is just boiling dow
 
 You can find both the original pirate-extensions files as well as the new files for a 3mm or 4mm electret under [pirate-models](pirate-models). Note that only the top mold has been updated and the original center and base mold are still required. 
 
-![3mm electret](pirate-models/pirate-extensions-extended.JPG)
+![4mm electret](Images/pirate-extensions-extended.JPG)
 
 A detailed step by step guide on how to build the pirate-extension can be found [here](step-by-step-guide/STEP_BY_STEP.md)
 
