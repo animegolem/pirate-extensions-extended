@@ -12,4 +12,4 @@ Very roughly,
 7. Using the EQ window in REW find the best point of agreement around 2khz against one of the targets provided on my [graphtool](https://animegolem.github.io/). Remember to remove any adjustments.
 8. Smooth as required and merge the results. 
 
-I recommend standing up your own instance of Haruto's [PublicGraphTool](https://github.com/HarutoHiroki/PublicGraphTool) since the tilts and Harman filters are *incredibly* useful in finding your preference. It's a pain in ass but if you're already this.  ¯\_(ツ)_/¯ 
+I recommend standing up your own instance of Haruto's [PublicGraphTool](https://github.com/HarutoHiroki/PublicGraphTool) since the tilts and Harman filters are *incredibly* useful in finding your preference. It's a pain in ass but if you're already this far down the hole  ¯\_(ツ)_/¯ 
