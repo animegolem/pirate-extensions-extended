@@ -1,4 +1,4 @@
-It's important to understand going in that In-Ear Mics are finnicky and complicated, while your measured result will likely be a *very* good starting point some work will still be required to understand your preferences and any issues in your specific measurement setup. Additionally blocked canal mics will not pick up any canal effects and you should expect notable variation from 2-3k in particular. 
+It's important to understand going in that In-Ear Mics are finnicky and complicated, while your measured result will likely be a *very* good starting point some work will still be required to understand your preferences and any issues in your specific measurement setup. Additionally blocked canal mics will not pick up any canal effects and you should expect notable variation from 1-3k in particular. 
 
 Some familiarity with basic audio science concepts is likely required to use these mics and is well beyond the scope of this guide. Read the original papers and proceed with caution. 
 
