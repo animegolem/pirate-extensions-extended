@@ -1,6 +1,6 @@
 # Ear Plugs
 
-The molds create a 3.5mm hole for the micrphone, in my experience this allowed both a 3mm and a 4mm electret without modification. If you find the 4mm mold too tight it should be safe to slightly increase the print scale. 
+The molds create a 3.5mm hole for the microphone, in my experience this allowed both a 3mm and a 4mm electret without modification. If you find the 4mm mold too tight it should be safe to slightly increase the print scale. 
 
 1. Print the universal base, middle, and appropriate top mold based on the capsule you have chosen to use. Any filament should work but petg or nylon will be less likely to snap when demolding. Using a .08mm or smaller layer height may help if you have issues printing the pegs. 
 2. Using a 2-Part kneadable silicone combine enough material to fill the mold. In my experience roughly 7 grams of each reagent is more than sufficient. Ensure mold is filled as tightly as possible. 
