@@ -2,7 +2,7 @@
 
 ### Ear Plugs 
 
-1. A reasonably competent 3D printer is required in order to create the mold.
+1. A reasonably competent 3D printer is required in order to create the mold. Alternatively you could use a print service. 
 
 2. A two part, kneadable silicone. This should be between shore 40-65a so it is soft enough to form a perfect seal but firm enough that it will not deform and vary placement. The original paper suggests 55A is ideal if possible.
 
