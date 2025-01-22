@@ -24,7 +24,7 @@
 
 2. Shrink Wrap or Electrical Tape 
 
-3. 3mm or 4mm Electret or 3mm MEMS microphone with a relatively flat and extended response. 
+3. 3mm/4mm Electret or 3mm MEMS microphone with a relatively flat and extended response. 
 
 * see [capsule_testing](capsule_testing.md).
 
