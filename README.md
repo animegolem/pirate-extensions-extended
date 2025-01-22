@@ -8,15 +8,13 @@ I strongly recommend reading both linked papers because this is just boiling dow
 
 ## Contents
 
-**All content on this repo, including the uploaded models, should be considered non-final and in progress**
-
 [Bill of Materials](Bill_of_Materials.md)
 
 [Build Instructions](build_guide.md)
 
 [Pirate Models](pirate-models)
 
-The updated molds and guide tool support 3mm and 4mm (pending, for now see build instructions) electret capsules. Additionally, the original pirate extensions support a 3mm MEMS microphone. Note that only the top mold has been updated and the original center and base mold are still required. 
+The updated molds and guide tool support 3mm and 4mm electret capsules. Additionally, the original pirate extensions support a 3mm MEMS microphone. Note that only the top mold has been updated and the original center and base mold are still required. 
 
 ![4mm electret](Images/pirate-extensions-extended.JPG)
 
