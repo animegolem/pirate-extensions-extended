@@ -19,4 +19,6 @@ The Microphone must be glued to a standoff in order to be held in the earplug. T
 
 The actual microphone is very simple to construct. From the capsule bridge hot to both internal wires. On the TRS solder to either tip or bridge ring and tip if you'd like an output on both channels. It shouldn't really make a difference either way. Use the sheathing as ground. Use shrink wrap over solder joints.  
 
+The shielded Canare cables are quite thick and you may want to run a thinner wire for a few inches up to the capsule to make the cable more manageable. 
+
 ![wiring](Images/STEP_BY_STEP/Mic_Construction.png)
