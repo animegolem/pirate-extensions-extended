@@ -1,5 +1,7 @@
 # Ear Plugs
 
+The molds create a 3.5mm hole for the micrphone, in my experience this allowed both a 3mm and a 4mm electret without modification. If you find the 4mm mold too tight it should be safe to slightly increase the print scale. 
+
 1. Print the universal base, middle, and appropriate top mold based on the capsule you have chosen to use. Any filament should work but petg or nylon will be less likely to snap when demolding. Using a .08mm or smaller layer height may help if you have issues printing the pegs. 
 2. Using a 2-Part kneadable silicone combine enough material to fill the mold. In my experience roughly 7 grams of each reagent is more than sufficient. Ensure mold is filled as tightly as possible. 
 3. Carefully demold. You will likely have to trim excess with a razor. You want plugs that are completely smooth and have no overhang past the mold.  
@@ -11,7 +13,7 @@
 I do not advise using the ear hooks as the original shape of the plugs is designed around the strain relief being oriented down from the ear. 
 
 # Microphone
-The Microphone must be glued to a standoff in order to be held in the earplug. This should be done using a 2 part epoxy or super glue. The provided guide tool is designed used with a 3mm electret but can be used with a 4mm if you increase the print scale to around 100.4. 
+The Microphone must be glued to a standoff in order to be held in the earplug. This should be done using a 2 part epoxy or super glue. The provided guide tool was designed with a 3mm electret originally but can be used with a 4mm if you increase the print scale to around 100.5. 
 
 ![Guide Tool](Images/STEP_BY_STEP/GuideToolCombined.png)
 
